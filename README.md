@@ -1,4 +1,4 @@
-### Hello, there! I am Daniel. 👋
+### Hello, there! I am Daniel. I'm 20 years old and I am Full Stack Web Developer 👋
 
 <div align="center">
   <a href="https://github.com/darcanj0">
