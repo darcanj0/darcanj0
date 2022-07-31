@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">Full Stack Web Developer. Looking forward to my first opportunity in tech</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darcanj0" alt="darcanj0" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darcanj0" alt="darcanj0" /></a> </p>
 
 - 🌱 I’m currently learning **React with Typescript, Material UI**
 
