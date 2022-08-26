@@ -3,7 +3,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darcanj0" alt="darcanj0" /></a> </p>
 
-- 🌱 I’m currently learning **React with Typescript, Material UI**
+- 🌱 I’m currently learning **SOLID, OOP, DDD**
 
 - 📫 How to reach me **daniel.thomas.aarcanjo@gmail.com**
 
