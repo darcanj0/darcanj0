@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">Full Stack Web Developer.
+<h3 align="center">Full Stack Developer.
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darcanj0" alt="darcanj0" /></a> </p>
 
-- 🌱 I’m currently learning **DDD, TDD, Clean Architecture, GraphQL**
+- 🌱 I’m currently learning **Dart, Flutter**
 
 - 📫 How to reach me **daniel.thomas.aarcanjo@gmail.com**
 
